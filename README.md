@@ -4,6 +4,9 @@ https://drive.google.com/file/d/1HghKIBoXD8ua_uUPHFFbwRQK-a-OYdpU/view?usp=drive
 The Youtube video link 
 https://youtu.be/2vJaVzglK8M?si=TXy1KEz8oeF2HmRR
 
-Github repository link
+Github repository link:
 https://github.com/insiyahmarkets/netcompare-vercel.git
+
+Vercel link:
+https://netcomapre.vercel.app/
 
